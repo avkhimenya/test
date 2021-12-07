@@ -1,2 +1,2 @@
-#is's my not first commit
+#!is's my not first commit
 1. commit в ветке test
